@@ -1,0 +1,12 @@
+Created a work day scheduler
+
+Click on the middle section to enter event information.
+
+When you save it, local storage will store the information.
+
+Current time/date changes using momentJS.
+
+Time change updates events so that present events = red, past events = gray, current events = green.
+
+Schedule events are from 9am to 5pm.
+
